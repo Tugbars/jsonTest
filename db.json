@@ -1,22 +1,21 @@
 [{
     "name": "Apple",
     "id": 6,
-    "calories": 52,  
+    "calories": 52
    },
  {   
     "name": "Banana",
     "id": 1,
-     "calories": 96,
-     "sugar": 17.2
+     "calories": 92    
    }, 
  {
     
     "name": "Blueberry",
     "id": 33,
-     "calories": 29,
+     "calories": 29
 }, 
    {
     "name": "Cherry",
      "id": 34,
-     "calories": 50,
+     "calories": 50
 }]
